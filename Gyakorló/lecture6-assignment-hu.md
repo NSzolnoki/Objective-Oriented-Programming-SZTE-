@@ -1,4 +1,4 @@
-# 6. Gyakorló Feladat: Absztrakt Osztályok és Interfészek
+# 6. Gyakorló Feladatsor: Absztrakt Osztályok és Interfészek
 
 ## 📋 Feladat Áttekintés
 Ez a feladat segít gyakorolni az absztrakt osztályok és interfészek fogalmakat, amelyeket a 6. előadásban tanultál. Létrehozol absztrakt osztályokat, implementálsz interfészeket és gyakorlod a szerződés-alapú programozást.

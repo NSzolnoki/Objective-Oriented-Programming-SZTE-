@@ -1,4 +1,4 @@
-# 7. Gyakorló Feladat: Gyűjtemények
+# 7. Gyakorló Feladatsor: Gyűjtemények
 
 ## 📋 Feladat Áttekintés
 Ez a feladat segít gyakorolni a Gyűjtemény Keretrendszer fogalmakat, amelyeket a 7. előadásban tanultál. Dolgozol ArrayList, HashMap, HashSet típusokkal és implementálsz fejlett adatkezelést gyűjteményekkel.

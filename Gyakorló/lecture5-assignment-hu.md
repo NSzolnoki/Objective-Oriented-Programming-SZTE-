@@ -1,4 +1,4 @@
-# 5. Előadás Feladat: Polimorfizmus
+# 5. Gyakorló Feladatsor: Polimorfizmus
 
 ## 📋 Feladat Áttekintés
 Ez a feladat segít gyakorolni a polimorfizmus fogalmakat, amelyeket az 5. előadásban tanultál. Létrehozol öröklési hierarchiákat, implementálsz metódus felülírásokat és demonstrálod a polimorf viselkedést.

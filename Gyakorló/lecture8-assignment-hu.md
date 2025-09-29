@@ -1,4 +1,4 @@
-# 8. Gyakorló Feladat: Kivételkezelés
+# 8. Gyakorló Feladatsor: Kivételkezelés
 
 ## 📋 Feladat Áttekintés
 Ez a feladat segít gyakorolni a kivételkezelés fogalmakat, amelyeket a 8. előadásban tanultál. Létrehozol egyedi kivétel osztályokat, implementálsz try-catch blokkokat és gyakorlod a hibakezelés legjobb gyakorlatait.

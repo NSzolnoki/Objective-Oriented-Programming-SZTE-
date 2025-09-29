@@ -1,4 +1,4 @@
-# 3. Gyakorló Feladat: OOP Alapok
+# 3. Gyakorló Feladatsor: OOP Alapok
 
 ## 📋 Feladat Áttekintés
 Ez a feladat segít gyakorolni az Objektum-Orientált Programozás alapjait, amelyeket a 3. előadásban tanultál. Létrehozol fejlett osztályokat megfelelő kapszulázással, konstruktorokkal és metódusokkal.

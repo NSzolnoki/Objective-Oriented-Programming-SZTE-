@@ -1,4 +1,4 @@
-# 2. Gyakorló Feladat: Java Alapok
+# 2. Gyakorló Feladatsor: Java Alapok
 
 ## 📋 Feladat Áttekintés
 Ez a feladat segít gyakorolni a Java programozás alapjait, amelyeket a 2. előadásban tanultál. Létrehozol osztályokat, objektumokat és megismerkedel az objektum-orientált programozás alapjaival.

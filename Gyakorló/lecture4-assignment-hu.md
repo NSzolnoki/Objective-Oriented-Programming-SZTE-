@@ -1,4 +1,4 @@
-# 4. Gyakorló Feladat: OOP Kapcsolatok
+# 4. Gyakorló Feladatsor: OOP Kapcsolatok
 
 ## 📋 Feladat Áttekintés
 Ez a feladat segít gyakorolni az Objektum-Orientált Programozás kapcsolatait, amelyeket a 4. előadásban tanultál. Létrehozol osztályokat különböző típusú kapcsolatokkal és megtanulod az objektum kapcsolatok kezelését.

@@ -1,4 +1,4 @@
-# 1. Gyakorlat Feladat: Java Első Lépések
+# 1. Gyakorló Feladatsor: Java Első Lépések
 
 ## 📋 Feladat Áttekintés
 Ez a feladat segít gyakorolni a Java programozás alapjait, amelyeket az 1. előadásban tanultál. Létrehozol egyszerű Java programokat és megismerkedelmegismerkedsz a fejlesztői környezettel.
